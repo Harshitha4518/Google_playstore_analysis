@@ -21,3 +21,13 @@
 - Translations: Beauty→Hindi, Business→Tamil, Dating→German
 - Time restricted: 6 PM – 9 PM IST only
 ![Chart](task4_timeseries.png)
+
+### Task 5: Bubble Chart
+- Tool: Python (Matplotlib)
+- App Size vs Average Rating, Bubble Size = Installs
+- Filters: Rating > 3.5, Reviews > 500, Installs > 50K, Subjectivity > 0.5
+- App name excludes letter S
+- GAME category highlighted in Pink
+- Translations: Beauty→Hindi, Business→Tamil, Dating→German
+- Time restricted: 5 PM – 7 PM IST only
+![Chart](task5_bubble_chart.png)
