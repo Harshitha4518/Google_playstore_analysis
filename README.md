@@ -13,6 +13,15 @@
 - Filters: Installs > 1M, Excluding categories starting with A, C, G, S
 - Time restricted: 6 PM – 8 PM IST only
 
+### Task 3: Dual-Axis Chart
+- Tool: Python (Matplotlib)
+- Avg Installs vs Revenue for Free vs Paid apps
+- Top 3 categories: FAMILY, PERSONALIZATION, PHOTOGRAPHY
+- Filters: Installs ≥ 10K, Revenue ≥ $10K, Android > 4.0, Size > 15MB
+- Content Rating = Everyone, App name ≤ 30 characters
+- Time restricted: 1 PM – 2 PM IST only
+![Chart](task3_dualaxis_chart.png)
+
 ### Task 4: Time Series Line Chart
 - Tool: Python (Matplotlib)
 - Total installs over time segmented by category
