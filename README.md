@@ -40,3 +40,12 @@
 - Translations: Beauty→Hindi, Business→Tamil, Dating→German
 - Time restricted: 5 PM – 7 PM IST only
 ![Chart](task5_bubble_chart.png)
+
+### Task 6: Stacked Area Chart
+- Tool: Python (Matplotlib)
+- Cumulative installs over time by app category
+- Filters: Rating ≥ 4.2, No numbers in app name, Category starts with T/P, Reviews > 1000, Size 20-80MB
+- Translations: Travel & Local→French, Productivity→Spanish, Photography→Japanese
+- Yellow shading highlights >25% MoM growth periods
+- Time restricted: 4 PM – 6 PM IST only
+![Chart](task6_stacked_area.png)
